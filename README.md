@@ -94,7 +94,7 @@ User Interaction
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-chatbot.git
+git clone https://github.com/Adel Mohamed/ai-chatbot.git
 cd ai-chatbot
 ```
 
